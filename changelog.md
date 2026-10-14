@@ -4,10 +4,14 @@
 
 All notable changes to the "at89lp-ide" extension will be documented in this file.
 
-#
-### Unreleased
+### 1.2.0 - 2026/10/14
+
+- **Memory report** - Added a memory breakdown tab, to show memory usage.
+
+### 1.1.1 - 2026/09/24
 
 - **Fix deselection of programming and serial ports** - Prevent the UI from deselecting the user selected port when ports are updated.
+- **Compilation of multiple source files** - Allow multiple `.c` files to be compiled and not only support header files.
 
 ### 1.1.0 - 2026/09/04
 
