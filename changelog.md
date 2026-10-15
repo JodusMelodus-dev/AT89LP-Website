@@ -4,6 +4,10 @@
 
 All notable changes to the "at89lp-ide" extension will be documented in this file.
 
+### 1.2.1 - 
+
+- **Fix memory report** - Clear when new one is generated.
+
 ### 1.2.0 - 2026/10/14
 
 - **Memory report** - Added a memory breakdown tab, to show memory usage.
