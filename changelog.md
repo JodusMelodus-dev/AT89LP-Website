@@ -7,7 +7,7 @@ All notable changes to the "at89lp-ide" extension will be documented in this fil
 ### Unreleased
 
 - **Fix memory report** - Clear when new one is generated.
-- **Dynamic programming baudrate** - Make the programming baudrate an input box, instead of a dropdown list.
+- **Dynamic baudrate** - Make the programming and serial monitor baud rates input boxes, instead of a dropdown list.
 - **Consistent UI overhaul** - Small UI overhaul to make it more consistent.
 
 ### 1.2.0 - 2026/10/14
